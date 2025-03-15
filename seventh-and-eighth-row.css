@@ -1,0 +1,22 @@
+.second-box-seventh-row {
+  position: absolute;
+  left: 90px;
+  top: 455px;
+}
+.fifth-box-seventh-row {
+  position: absolute;
+  left: 285px;
+  top: 455px;
+}
+
+.eighth-box-seventh-row {
+  position: absolute;
+  right: 255px;
+  top: 455px;
+}
+
+.fifth-box-eighth-row {
+  position: absolute;
+  left: 285px;
+  top: 520px;
+}

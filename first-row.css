@@ -1,0 +1,51 @@
+.first-box {
+  position: absolute;
+  top: 20px;
+  left: 25px;
+}
+
+.second-box {
+  position: absolute;
+  left: 90px;
+  top: 20px;
+}
+
+.third-box {
+  position: absolute;
+  left: 155px;
+  top: 20px;
+}
+.fourth-box {
+  position: absolute;
+  left: 220px;
+  top: 20px;
+}
+
+.fifth-box {
+  position: absolute;
+  left: 285px;
+  top: 20px;
+}
+
+.sixth-box {
+  position: absolute;
+  left: 600px;
+  top: 20px;
+}
+
+.seventh-box {
+  position: absolute;
+  right: 320px;
+  top: 20px;
+}
+
+.eighth-box {
+  position: absolute;
+  right: 255px;
+  top: 20px;
+}
+.ninth-box {
+    position: absolute;
+    right: 190px ; 
+    top: 20px;   
+}

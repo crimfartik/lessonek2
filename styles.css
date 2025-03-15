@@ -1,0 +1,31 @@
+@import url("/first-row.css");
+@import url("/second-row.css");
+@import url("/third-row.css");
+@import url("/fourth-and-fifth-row.css");
+@import url("/sixth-row.css");
+@import url("/seventh-and-eighth-row.css");
+
+.bigbox {
+  width: 1100px;
+  height: 570px;
+  border: 1px solid #000;
+}
+
+.box {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #000;
+}
+
+.secbigbox {
+  width: 1100px;
+  height: 150px;
+  border: 1px solid #000;
+}
+
+.middlesection{
+  width: 1100px;
+  height: 70px;
+  border: 1px solid #000;
+  padding-top: 150px;
+}

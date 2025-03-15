@@ -1,0 +1,17 @@
+.first-box-second-row {
+  position: absolute;
+  top: 85px;
+  left: 25px;
+}
+
+.second-box-second-row {
+  position: absolute;
+  left: 90px;
+  top: 85px;
+}
+
+.ninth-box-second-row {
+  position: absolute;
+  right: 190px;
+  top: 85px;
+}

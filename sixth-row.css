@@ -1,0 +1,53 @@
+.first-box-sixth-row {
+  position: absolute;
+  top: 390px;
+  left: 25px;
+}
+
+.second-box-sixth-row {
+  position: absolute;
+  left: 90px;
+  top: 390px;
+}
+
+.third-box-sixth-row {
+  position: absolute;
+  left: 155px;
+  top: 390px;
+}
+
+.fourth-box-sixth-row {
+  position: absolute;
+  left: 220px;
+  top: 390px;
+}
+
+.fifth-box-sixth-row {
+  position: absolute;
+  left: 285px;
+  top: 390px;
+}
+
+.sixth-box-sixth-row {
+  position: absolute;
+  left: 600px;
+  top: 390px;
+}
+
+.seventh-box-sixth-row {
+  position: absolute;
+  right: 320px;
+  top: 390px;
+}
+
+.eighth-box-sixth-row {
+  position: absolute;
+  right: 255px;
+  top: 390px;
+}
+
+.ninth-box-sixth-row{
+    position: absolute;
+    right: 190px ; 
+    top: 390px;   
+}

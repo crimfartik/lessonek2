@@ -1,0 +1,24 @@
+.second-box-third-row {
+  position: absolute;
+  left: 90px;
+  top: 170px;
+}
+
+.fifth-box-third-row {
+  position: absolute;
+  left: 400px;
+  top: 170px;
+}
+
+.seventh-box-third-row {
+  position: absolute;
+  right: 320px;
+  top: 170px;
+}
+
+.eighth-box-third-row{
+    position: absolute;
+    right: 255px;
+    top: 170px;
+
+}
